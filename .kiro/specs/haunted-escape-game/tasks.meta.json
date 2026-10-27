@@ -1,0 +1,283 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Project setup and type definitions": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616320
+      },
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130626229
+      },
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130764869
+      }
+    ],
+    "2. Game logic — pure validation functions": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616353
+      },
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130776811
+      },
+      {
+        "executionId": "2d3f667a-212d-4fab-9a85-1ae1a72546e3",
+        "chatSessionId": "sess_4656e76b-b223-43d3-af12-171c672ee218",
+        "timestamp": 1793133030514
+      },
+      {
+        "executionId": "2d3f667a-212d-4fab-9a85-1ae1a72546e3",
+        "chatSessionId": "sess_4656e76b-b223-43d3-af12-171c672ee218",
+        "timestamp": 1793133247931
+      }
+    ],
+    "3. Room definitions": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616392
+      },
+      {
+        "executionId": "8ca361a4-634e-4459-9523-6381c44413b8",
+        "chatSessionId": "sess_12b2ac50-8531-4d54-8e37-80920722c079",
+        "timestamp": 1793133305853
+      },
+      {
+        "executionId": "8ca361a4-634e-4459-9523-6381c44413b8",
+        "chatSessionId": "sess_12b2ac50-8531-4d54-8e37-80920722c079",
+        "timestamp": 1793133364112
+      }
+    ],
+    "4. localStorage persistence module": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616419
+      },
+      {
+        "executionId": "40c2c782-dad8-4848-b2b6-a9b4535b5492",
+        "chatSessionId": "sess_00a875f0-09d3-48f5-a763-066d7b52d1ed",
+        "timestamp": 1793133380054
+      },
+      {
+        "executionId": "40c2c782-dad8-4848-b2b6-a9b4535b5492",
+        "chatSessionId": "sess_00a875f0-09d3-48f5-a763-066d7b52d1ed",
+        "timestamp": 1793133417265
+      }
+    ],
+    "5. Central state hook — `useGameState`": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616441
+      },
+      {
+        "executionId": "2ae0e43c-663a-49db-bb1e-b804e8c2e99c",
+        "chatSessionId": "sess_ba621968-4b5b-443b-bc3d-a7a2f717a86b",
+        "timestamp": 1793133435249
+      },
+      {
+        "executionId": "2ae0e43c-663a-49db-bb1e-b804e8c2e99c",
+        "chatSessionId": "sess_ba621968-4b5b-443b-bc3d-a7a2f717a86b",
+        "timestamp": 1793133544273
+      }
+    ],
+    "6. App root and screen routing": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616461
+      },
+      {
+        "executionId": "6cadbaf0-5670-489c-8dca-977c465f6d40",
+        "chatSessionId": "sess_afef81b1-ffe9-4488-b482-9aadd933ceee",
+        "timestamp": 1793133588288
+      },
+      {
+        "executionId": "6cadbaf0-5670-489c-8dca-977c465f6d40",
+        "chatSessionId": "sess_afef81b1-ffe9-4488-b482-9aadd933ceee",
+        "timestamp": 1793134036009
+      }
+    ],
+    "7. Layout components — `Layout` and `Header`": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616484
+      },
+      {
+        "executionId": "44d7187a-7e9f-4201-a37a-8b9f74a35376",
+        "chatSessionId": "sess_48ab35b9-1775-4908-8dce-a97bab1aef06",
+        "timestamp": 1793134100664
+      },
+      {
+        "executionId": "44d7187a-7e9f-4201-a37a-8b9f74a35376",
+        "chatSessionId": "sess_48ab35b9-1775-4908-8dce-a97bab1aef06",
+        "timestamp": 1793134248521
+      }
+    ],
+    "8. Start screen": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616507
+      },
+      {
+        "executionId": "91083ca2-e2e1-406d-9f19-aba0110e3b12",
+        "chatSessionId": "sess_fc0b894c-e4c5-4630-a836-617dbc085b61",
+        "timestamp": 1793134266433
+      },
+      {
+        "executionId": "91083ca2-e2e1-406d-9f19-aba0110e3b12",
+        "chatSessionId": "sess_fc0b894c-e4c5-4630-a836-617dbc085b61",
+        "timestamp": 1793134442785
+      }
+    ],
+    "9. Shared feedback and hint components": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616531
+      },
+      {
+        "executionId": "5359ed5d-87d6-4dd3-8f3e-24fd21712899",
+        "chatSessionId": "sess_a8678121-dc1e-4f32-a212-d4aa86477805",
+        "timestamp": 1793134526590
+      },
+      {
+        "executionId": "5359ed5d-87d6-4dd3-8f3e-24fd21712899",
+        "chatSessionId": "sess_a8678121-dc1e-4f32-a212-d4aa86477805",
+        "timestamp": 1793134564600
+      }
+    ],
+    "10. Challenge — Room 1 (TextChallenge)": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616551
+      },
+      {
+        "executionId": "ef9b9feb-00b8-4d9c-870f-aa254f93f548",
+        "chatSessionId": "sess_2c82603b-92c7-4bd5-a3b7-4563d1fa9677",
+        "timestamp": 1793134615119
+      },
+      {
+        "executionId": "ef9b9feb-00b8-4d9c-870f-aa254f93f548",
+        "chatSessionId": "sess_2c82603b-92c7-4bd5-a3b7-4563d1fa9677",
+        "timestamp": 1793134653837
+      }
+    ],
+    "11. Challenge — Room 2 (PotionChallenge)": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616574
+      },
+      {
+        "executionId": "78f9e56e-d665-4af0-8a58-4f8dc2c49a86",
+        "chatSessionId": "sess_f786f817-75f2-4566-8754-e032ef420a56",
+        "timestamp": 1793134707475
+      },
+      {
+        "executionId": "78f9e56e-d665-4af0-8a58-4f8dc2c49a86",
+        "chatSessionId": "sess_f786f817-75f2-4566-8754-e032ef420a56",
+        "timestamp": 1793134740432
+      }
+    ],
+    "12. Challenge — Room 3 (CryptChallenge)": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616595
+      },
+      {
+        "executionId": "02faf589-1f65-4f4c-83d1-a254baedaba9",
+        "chatSessionId": "sess_ea7de527-be52-43fe-9f12-eeac92ba314d",
+        "timestamp": 1793134796255
+      },
+      {
+        "executionId": "02faf589-1f65-4f4c-83d1-a254baedaba9",
+        "chatSessionId": "sess_ea7de527-be52-43fe-9f12-eeac92ba314d",
+        "timestamp": 1793134833592
+      }
+    ],
+    "13. Room screen wrapper": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616632
+      },
+      {
+        "executionId": "0e52c96e-8445-4d5a-954b-36beed33bcee",
+        "chatSessionId": "sess_eef02756-bd9d-411a-8b2d-9826733fd1a9",
+        "timestamp": 1793134853121
+      },
+      {
+        "executionId": "0e52c96e-8445-4d5a-954b-36beed33bcee",
+        "chatSessionId": "sess_eef02756-bd9d-411a-8b2d-9826733fd1a9",
+        "timestamp": 1793134897834
+      }
+    ],
+    "14. Victory screen": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616652
+      },
+      {
+        "executionId": "8b298a35-4456-4a18-8f86-9bee6c93238d",
+        "chatSessionId": "sess_8468b061-146b-4b38-bfc0-66b2fc5ffca7",
+        "timestamp": 1793134959896
+      },
+      {
+        "executionId": "8b298a35-4456-4a18-8f86-9bee6c93238d",
+        "chatSessionId": "sess_8468b061-146b-4b38-bfc0-66b2fc5ffca7",
+        "timestamp": 1793135110300
+      }
+    ],
+    "15. CSS design system and animations": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616675
+      }
+    ],
+    "16. Unit tests — game logic": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616698
+      }
+    ],
+    "17. Unit tests — storage": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616719
+      }
+    ],
+    "18. Integration tests — `useGameState` hook": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616743
+      }
+    ],
+    "19. End-to-end smoke check": [
+      {
+        "executionId": "928747b3-8d36-443d-ba41-cc9e9ef1e77d",
+        "chatSessionId": "sess_1d03d6c1-a2d8-4979-a654-13aa9d656fd2",
+        "timestamp": 1793130616767
+      }
+    ]
+  }
+}
